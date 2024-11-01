@@ -1,0 +1,24 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #001f3f; /* Dark blue background */
+    color: white;
+    text-align: center;
+}
+
+/* Container for Match Section */
+.matches {
+    padding: 40px 20px;
+}
+
+/* Container for Pricing Section */
+.pricing-options {
+    display: none;
+    padding: 40px 20px;
+}

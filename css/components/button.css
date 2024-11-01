@@ -1,0 +1,12 @@
+/* Button Component (For Links in Navigation) */
+.nav-bar a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.nav-bar a:hover {
+    color: #FFD700; /* Gold on hover */
+}
